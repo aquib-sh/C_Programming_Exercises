@@ -1,0 +1,12 @@
+Hello this is Aquib
+I just wanted to write this text file I don't know why
+But I believe I can redirect it to a C Program.
+Lets see
+I think I can also handle it in Python
+What sucks is you cannot directly interact with 0x05 (EOF) in Python
+so basically I would have to use a try except block to terminate it
+unlike in C where I can just use if (getchar() == EOF) {break;}
+Now Here I    will    give    a    few    spaces
+Tom had 5 apples and Tim had 9 oranges. Tim and Tom swapped their apples and oranges
+So Derek stole all their fruits. Now Derek has 14 fruits that include 5 apples and 9 oranges
+and Tom has 0 apples and Tim has 0 oranges.
